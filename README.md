@@ -1,0 +1,20 @@
+## full_oppo6771-user 10 QP1A.190711.020 7604ad4e2b1328a1 release-keys
+- Manufacturer: oppo
+- Platform: mt6771
+- Codename: CPH1835
+- Brand: OPPO
+- Flavor: full_oppo6771-user
+- Release Version: 10
+- Kernel Version: 4.14.141
+- Id: QP1A.190711.020
+- Incremental: 7604ad4e2b1328a1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: 
+- OTA version: CPH1819EX_11.F.28_2280_202104071215
+- Branch: CPH1819EX_11.F.28_2280_202104071215
+- Repo: oppo_cph1835_dump
